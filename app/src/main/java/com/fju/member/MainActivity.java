@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView nickname;
     private TextView age;
     private TextView gender;
+    String test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
